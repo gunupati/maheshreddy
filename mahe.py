@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
 def hello():
-	return "Hellow World"
-print(hello())
-
+	print("Hellow World")
+hello()
