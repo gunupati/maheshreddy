@@ -2,6 +2,5 @@
 
 def hello():
 	return "Hellow World"
-	print 'Hi'
 print(hello())
 
